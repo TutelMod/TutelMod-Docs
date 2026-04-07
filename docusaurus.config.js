@@ -8,12 +8,12 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'PenguinMod',
+    title: 'TutelMod',
     // tagline: 'Dinosaurs are cool',
     favicon: 'img/favicon.ico',
     
     // Set the production url of your site here
-    url: 'https://docs.penguinmod.com',
+    url: 'https://tutelmod.github.io/TutelMod-Docs/',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: '/',
@@ -21,8 +21,8 @@ const config = {
     
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'PenguinMod', // Usually your GitHub org/user name.
-    projectName: 'PenguinMod-Docs', // Usually your repo name.
+    organizationName: 'TutelMod', // Usually your GitHub org/user name.
+    projectName: 'TutelMod-Docs', // Usually your repo name.
     
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
