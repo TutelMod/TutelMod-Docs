@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
         navbar: {
-            title: 'PenguinMod',
+            title: 'TutelMod',
             logo: {
                 alt: 'PenguinMod Logo',
                 src: 'img/favicon.png',
@@ -86,12 +86,12 @@ const config = {
                     position: 'left'
                 },
                 {
-                    href: 'https://penguinmod.com/',
-                    label: 'PenguinMod',
+                    href: 'https://tutelmod.github.io/',
+                    label: 'TutelMod',
                     position: 'right'
                 },
                 {
-                    href: 'https://github.com/PenguinMod/',
+                    href: 'https://github.com/TutelMod/',
                     label: 'GitHub',
                     position: 'right',
                 },
