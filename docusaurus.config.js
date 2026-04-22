@@ -13,10 +13,10 @@ const config = {
     favicon: 'img/favicon.ico',
     
     // Set the production url of your site here
-    url: 'https://tutelmod.github.io',
+    url: 'https://docs.tutelmod.com',
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
-    baseUrl: '/TutelMod-Docs/',
+    baseUrl: '/',
     trailingSlash: true,
     
     // GitHub pages deployment config.
@@ -61,7 +61,7 @@ const config = {
         navbar: {
             title: 'TutelMod',
             logo: {
-                alt: 'PenguinMod Logo',
+                alt: 'TutelMod Logo',
                 src: 'img/favicon.png',
             },
             items: [
@@ -86,7 +86,7 @@ const config = {
                     position: 'left'
                 },
                 {
-                    href: 'https://tutelmod.github.io/',
+                    href: 'https://tutelmod.com/',
                     label: 'TutelMod',
                     position: 'right'
                 },
